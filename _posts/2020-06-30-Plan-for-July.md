@@ -1,4 +1,16 @@
-**七月**
+---
+layout:     post
+title:      Plan for July
+subtitle:   Second half of 2020
+date:       2020-06-30
+author:     Kun
+header-img: img/post-bg-coffee.jpeg
+catalog: false
+tags:
+    - Personal
+---
+
+## 七月
 
 2020要过半了。
 
